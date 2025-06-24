@@ -1,3 +1,4 @@
+![Dashboard 6](https://github.com/user-attachments/assets/d4804bb1-fa51-4d03-8c53-44f5c0f4c26c)
 # Jumbo-Wearable-Fitness-Step-Tracker-Analysis-for-the-Year-2021  
 This repository presents an analytical review of personal fitness metrics collected through a Jumbo wearable fitness tracker over the year 2021. It explores behavioral trends and wellness insights derived from data such as steps, distance, sleep hours, mood, water intake, and calories burned.
 
